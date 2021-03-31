@@ -1,5 +1,5 @@
 {
-    "name": "chase the pizza ",
+    "name": "chase the fish",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -8,17 +8,21 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.4.28",
+        "target": "1.4.30",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
